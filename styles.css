@@ -1,0 +1,39 @@
+
+  section h1 {
+    color: black;
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  section h4 {
+      text-align: center;
+  }
+
+
+  section p {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.322);
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .container {
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  .texts p {
+    color: black;
+    text-align: left;
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  .texts p.replay {
+    text-align: right;
+  }
+  
